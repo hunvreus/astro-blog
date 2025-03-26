@@ -1,7 +1,7 @@
 ---
 layout: ../layouts/AboutLayout.astro
 title: About
-cover: //lore.jpg
+cover: //PNG_transparency_demonstration_1.png
 ---
 # **Ciao Lorenzo! Famo sti soldi cazzo!**![](//astropaper-og.jpg)
 
