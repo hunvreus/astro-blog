@@ -1,12 +1,14 @@
 ---
 layout: ../layouts/AboutLayout.astro
 title: About
-cover: //favicon.svg
+cover: //lore-1.jpg
 ---
 # **Ciao Lorenzo! Famo sti soldi cazzo!**![](//astropaper-og.jpg)
 
-![](//favicon.svg)
+![](//lore.jpg)
 
+  
+  
 AstroPaper is a minimal, responsive and SEO-friendly Astro blog theme. I designed and crafted this based on [my personal blog](https://satnaing.dev/blog).
 
 This theme is aimed to be accessible out of the box. Light and dark mode are supported by default and additional color schemes can also be configured.
