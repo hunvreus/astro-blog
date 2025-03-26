@@ -9,6 +9,7 @@ export interface Props {
   frontmatter: {
     title: string;
     description?: string;
+    cover?: string;
   };
 }
 
@@ -21,6 +22,17 @@ const { frontmatter } = Astro.props;
   <main id="main-content">
     <section id="about" class="prose mb-28 max-w-3xl prose-img:border-0">
       <h1 class="text-2xl tracking-wider sm:text-3xl">{frontmatter.title}</h1>
+
+      {frontmatter.cover && (
+        <div class="my-8">
+          <img 
+            src={frontmatter.cover} 
+            alt={`Cover image for ${frontmatter.title}`} 
+            class="rounded-lg w-full"
+          />
+        </div>
+      )}
+ 
       <slot />
     </section>
   </main>
