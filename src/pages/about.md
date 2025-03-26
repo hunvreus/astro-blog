@@ -2,15 +2,20 @@
 layout: ../layouts/AboutLayout.astro
 title: About
 ---
-Ciao Lorenzo! Famo sti soldi cazzo! AstroPaper is a minimal, responsive and SEO-friendly Astro blog theme. I designed and crafted this based on [my personal blog](https://satnaing.dev/blog).
+# **Ciao Lorenzo! Famo sti soldi cazzo!**
+
+#   
+
+![](//assets/lore.jpg)
+
+##   
+AstroPaper is a minimal, responsive and SEO-friendly Astro blog theme. I designed and crafted this based on [my personal blog](https://satnaing.dev/blog).
 
 This theme is aimed to be accessible out of the box. Light and dark mode are supported by default and additional color schemes can also be configured.
 
-This theme is self-documented \_ which means articles/posts in this theme can also be considered as documentations. So, see the documentation for more info.
-
-![coding dev illustration](/assets/dev.svg)
-
-## Tech Stack
+This theme is self-documented \_ which means articles/posts in this theme can also be considered as documentations. So, see the documentation for more info.  
+  
+Tech Stack
 
 This theme is written in vanilla JavaScript (+ TypeScript for type checking) and a little bit of ReactJS for some interactions. TailwindCSS is used for styling; and Markdown is used for blog contents.
 
