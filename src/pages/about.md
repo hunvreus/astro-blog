@@ -15,6 +15,14 @@ This theme is self-documented \_ which means articles/posts in this theme can al
 
 Tech Stack
 
+![](/astropaper-og.jpg)
+
+![](/favicon.svg)
+
+![](/assets/forrest-gump-quote.webp)
+
+![](/assets/logo.png)
+
 This theme is written in vanilla JavaScript (+ TypeScript for type checking) and a little bit of ReactJS for some interactions. TailwindCSS is used for styling; and Markdown is used for blog contents.
 
 ## Features
