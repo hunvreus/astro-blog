@@ -4,9 +4,7 @@ title: About
 cover: /lore-1.jpg
 ---
 
-# **Ciao Lorenzo! Famo sti soldi cazzo!**![](/astropaper-og.jpg)
-
-![](/lore.jpg)
+# **Ciao Lorenzo! Famo sti soldi cazzo!**
 
 AstroPaper is a minimal, responsive and SEO-friendly Astro blog theme. I designed and crafted this based on [my personal blog](https://satnaing.dev/blog).
 
