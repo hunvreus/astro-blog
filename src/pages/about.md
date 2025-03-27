@@ -3,7 +3,7 @@ layout: ../layouts/AboutLayout.astro
 title: About
 cover: //example-img.jpg
 ---
-# **Ciao Lorenzo! Famo sti soldi cazzo!**
+# **Ciao!**
 
 ![](//example-img.jpg)
 
