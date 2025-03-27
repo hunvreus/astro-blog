@@ -1,7 +1,7 @@
 ---
 layout: ../layouts/AboutLayout.astro
 title: About
-cover: //example-img.jpg
+cover: /astropaper-og.jpg
 ---
 # **Ciao!**
 
